@@ -7,13 +7,13 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@web3modal/ethers": "^2.7.2",
-    "@web3modal/ethers/react": "^5.1.11",
-    "@web3modal/react": "^2.7.2",
+    "@web3modal/ethers": "^5.1.11",
+    
+    "@web3modal/react": "^2.7.1",
     "ethers": "^6.7.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "viem": "^1.24.1"
+    "viem": "^2.30.0"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.0.0",
